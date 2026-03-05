@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### Hello!  My name is Xiran Zhou.   I am from University of Ottawa taking BS Computer Engineering.
-##### I'm learning Python right now, but my ultimate goal is to design chips.
+##### Hello!  My name is Xiran Zhou.   I am from University of Ottawa taking Computer Engineering.
 ##### I get the benefit of a lot of projects on GitHub, and I'd like to work on some, but I'm still learning.
